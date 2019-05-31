@@ -43282,7 +43282,7 @@ s=F.bH(a,!1).a.a
 if(typeof s!=="number")return s.F()
 if(s<800)s=12
 else s=E.DL(a)?12:20
-return R.zY(M.fB(r,M.q_(C.S,R.zY(new T.hg(C.af,r,r,T.n1(H.h([p,new T.dr(u,r,r,r),U.zI("assets/sent.png",C.p,s,1,t)],[N.aA]),C.dq,C.aL),r),r,r,r,r,r,r,new D.EN(),r),C.aa,C.ab,0,r,r,r,C.aN),r,r,q,40,r,r,r),r,r,r,r,r,r,r,r)}}
+return R.zY(M.fB(r,M.q_(C.S,R.zY(new T.hg(C.af,r,r,T.n1(H.h([p,new T.dr(u,r,r,r),U.zI("assets/images/sent.png",C.p,s,1,t)],[N.aA]),C.dq,C.aL),r),r,r,r,r,r,r,new D.EN(),r),C.aa,C.ab,0,r,r,r,C.aN),r,r,q,40,r,r,r),r,r,r,r,r,r,r,r)}}
 D.EN.prototype={
 $0:function(){},
 $S:1}
