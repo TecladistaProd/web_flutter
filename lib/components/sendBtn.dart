@@ -43,7 +43,7 @@ class SendBtn extends StatelessWidget {
                         : ResponsiveLayout.isMediumScreen(context) ? 6 : 8,
                   ),
                   Image.network(
-                    "assets/sent.png",
+                    "assets/images/sent.png",
                     color: Colors.white,
                     width: ResponsiveLayout.isSmallScreen(context)
                         ? 12
